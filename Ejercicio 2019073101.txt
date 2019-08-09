@@ -1,0 +1,2 @@
+Dado un conjunto de valores cada uno de los cuales representa el sueldo de un empleado excepto el último que es cero e indica el fin del conjunto
+desarrollar un progrma que determine e imprima cuántos empleados ganan -500, cuántos ganan entre 520 y 780, cuántos entre 780 y 999 y cuántos ganan más de 999.
